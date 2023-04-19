@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">974097826947-gkbvf7dj4k4f9c1ojocu0mu7pp69cguf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://steamview-5e98b-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">974097826947</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-7RPG2jMdidl6My4AnaOv7OSaWZ35b2U</string>
+    <string name="google_app_id" translatable="false">1:974097826947:android:787f871035c1782e4b07b6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-7RPG2jMdidl6My4AnaOv7OSaWZ35b2U</string>
+    <string name="google_storage_bucket" translatable="false">steamview-5e98b.appspot.com</string>
+    <string name="project_id" translatable="false">steamview-5e98b</string>
+</resources>

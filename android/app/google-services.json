@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974097826947",
+    "firebase_url": "https://steamview-5e98b-default-rtdb.firebaseio.com",
+    "project_id": "steamview-5e98b",
+    "storage_bucket": "steamview-5e98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974097826947:android:787f871035c1782e4b07b6",
+        "android_client_info": {
+          "package_name": "com.example.projet_steam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974097826947-gkbvf7dj4k4f9c1ojocu0mu7pp69cguf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-7RPG2jMdidl6My4AnaOv7OSaWZ35b2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974097826947-gkbvf7dj4k4f9c1ojocu0mu7pp69cguf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+2023/04/16-10:39:49.952 3cb8 Creating DB C:\Users\guill\AppData\Local\Temp\flutter_tools.14ba86\flutter_tools_chrome_device.c4ad35b\Default\IndexedDB\http_localhost_52459.indexeddb.leveldb since it was missing.
+2023/04/16-10:39:49.956 3cb8 Reusing MANIFEST C:\Users\guill\AppData\Local\Temp\flutter_tools.14ba86\flutter_tools_chrome_device.c4ad35b\Default\IndexedDB\http_localhost_52459.indexeddb.leveldb/MANIFEST-000001
+2023/04/16-10:39:49.965 3c28 Level-0 table #5: started
+2023/04/16-10:39:49.967 3c28 Level-0 table #5: 690 bytes OK
+2023/04/16-10:39:49.968 3c28 Delete type=0 #3
+2023/04/16-10:39:49.969 3c28 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
